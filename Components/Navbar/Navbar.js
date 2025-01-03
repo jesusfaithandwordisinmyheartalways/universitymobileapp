@@ -79,6 +79,7 @@ const navbar = StyleSheet.create({
         overflow: 'hidden',
         backgroundColor:'gold',
         height:110,
+        marginTop: -20
     },
     navbarWrapper: {
         flex: 1,
